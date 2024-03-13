@@ -1,12 +1,11 @@
-### Hi there 👋
-
-<!-- ## Interested in these
+<!--
+## Interested in these
 <div align="left"> 
   
-  [![Javascript][Javascript-src]][npm-version-href]
-  [![Typescript][Typescript-src]][npm-version-href]
-  [![Flutter][Flutter-src]][npm-version-href]
-  [![C][C-src]][npm-version-href]
+  ![Javascript-src]
+  ![Typescript-src]
+  ![Flutter-src]
+  ![Rust-src]
   
 </div>
 
@@ -16,22 +15,21 @@
   
   [![Mail][Mail-src]][Mail-href]
   
-</div> -->
+</div> 
 
-<!-- **ZhongxuYang/zhongxuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+<div align="center"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+  ![Moe-Counter]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongxuyang&theme=cobalt&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats]
+
+</div>
+
+[Moe-Counter]: https://moe-counter.glitch.me/get/@zhongxuyang?theme=rule34
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=zhongxuyang&theme=cobalt&layout=compact&hide=html
+[GitHub stats]: https://github-readme-stats.vercel.app/api?username=zhongxuyang&theme=cobalt
 
 [Javascript-src]: https://img.shields.io/badge/Javascript--yellow?logo=javascript&style=for-the-badge&logoColor=white&labelColor=yellow
 [Typescript-src]: https://img.shields.io/badge/Javascript--blue?logo=typescript&style=for-the-badge&logoColor=white&labelColor=blue
@@ -41,7 +39,8 @@ Here are some ideas to get you started:
 [Python-src]: https://img.shields.io/badge/Python--blue?logo=python&style=for-the-badge&logoColor=white&labelColor=blue
 [Java-src]: https://img.shields.io/badge/Java--FA862C?logo=openjdk&style=for-the-badge&logoColor=white&labelColor=FA862C
 [Android-src]: https://img.shields.io/badge/Android--9FC037?logo=android&style=for-the-badge&logoColor=white&labelColor=9FC037
+[Rust-src]: https://img.shields.io/badge/Rust--9FC037?logo=rust&style=for-the-badge&logoColor=white&labelColor=ffc832
 
 [Mail-src]: https://img.shields.io/badge/Mail-himatthew@foxmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red
-[Mail-href]: himatthew@foxmail.com
+[Mail-href]: mailto:himatthew@foxmail.com
 <!-- [Discord-src]: https://img.shields.io/badge/Discord-azwhikaru%232357-404EED?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED -->
