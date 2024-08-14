@@ -21,8 +21,6 @@
 
 <div align="center"> 
 
-  ![Moe-Counter]
-
   ![GitHub stats]
 
 </div>
