@@ -1,44 +1,21 @@
-<!--
-## Interested in these
-<div align="left"> 
-  
-  ![Javascript-src]
-  ![Typescript-src]
-  ![Flutter-src]
-  ![Rust-src]
-  
-</div>
+## Hi, I'm Zhongxu Yang 👋
 
-## Contact me
+I'm a Front-end Developer focusing on **Vue, Vite, engineering efficiency, low-code platforms, and AI-powered applications**.
 
-<div align="left"> 
-  
-  [![Mail][Mail-src]][Mail-href]
-  
-</div> 
+I enjoy building tools that improve developer experience, product delivery efficiency, and frontend architecture quality. Recently, I'm exploring how to combine **Agent, MCP, Skills, workflow automation, and desktop applications** to build more practical AI products.
 
--->
+### 🛠 Tech Stack
 
-<div align="center"> 
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-  ![GitHub stats]
+### 🌐 Find me
 
-</div>
-
-[Moe-Counter]: https://moe-counter.glitch.me/get/@zhongxuyang?theme=rule34
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=zhongxuyang&theme=cobalt&layout=compact&hide=html
-[GitHub stats]: https://github-readme-stats.vercel.app/api?username=zhongxuyang&theme=cobalt
-
-[Javascript-src]: https://img.shields.io/badge/Javascript--yellow?logo=javascript&style=for-the-badge&logoColor=white&labelColor=yellow
-[Typescript-src]: https://img.shields.io/badge/Javascript--blue?logo=typescript&style=for-the-badge&logoColor=white&labelColor=blue
-[Flutter-src]: https://img.shields.io/badge/Flutter--blue?logo=flutter&style=for-the-badge&logoColor=white&labelColor=blue
-[C-src]: https://img.shields.io/badge/C--blue?logo=c&style=for-the-badge&logoColor=white&labelColor=blue
-[Python-src]: https://img.shields.io/badge/Python--blue?logo=python&style=for-the-badge&logoColor=white&labelColor=blue
-[Python-src]: https://img.shields.io/badge/Python--blue?logo=python&style=for-the-badge&logoColor=white&labelColor=blue
-[Java-src]: https://img.shields.io/badge/Java--FA862C?logo=openjdk&style=for-the-badge&logoColor=white&labelColor=FA862C
-[Android-src]: https://img.shields.io/badge/Android--9FC037?logo=android&style=for-the-badge&logoColor=white&labelColor=9FC037
-[Rust-src]: https://img.shields.io/badge/Rust--9FC037?logo=rust&style=for-the-badge&logoColor=white&labelColor=ffc832
-
-[Mail-src]: https://img.shields.io/badge/Mail-himatthew@foxmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red
-[Mail-href]: mailto:himatthew@foxmail.com
-<!-- [Discord-src]: https://img.shields.io/badge/Discord-azwhikaru%232357-404EED?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED -->
+- Blog: https://zhongxuyang.github.io
+- Email: himatthew@foxmail.com
